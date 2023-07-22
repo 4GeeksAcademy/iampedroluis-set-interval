@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+span{
+    width: 100px;
+    height: 150px;
+    background-color: rgb(51, 50, 50);
+    border-radius: 7px;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    margin: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
